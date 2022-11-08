@@ -5,6 +5,10 @@
 
 
 def reverse_list(vals):
+    '''
+    Takes a list as a parameter and returns the list in reverse
+   
+    '''
     print(vals[::-1])
 
 #reverse_list([1,3,5,7])
